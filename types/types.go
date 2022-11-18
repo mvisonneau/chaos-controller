@@ -92,5 +92,6 @@ var (
 		DisruptionKindDiskPressure,
 		DisruptionKindDNSDisruption,
 		DisruptionKindGRPCDisruption,
+                DisruptionKindDiskFailure,
 	}
 )
